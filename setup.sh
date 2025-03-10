@@ -1,3 +1,3 @@
 sudo apt-get update
-sudo apt-get install sl
-echo "export PATH=$PATH:/usr/games" >> ~/.bashrc
+sudo apt-get install s1
+echo "export PATH=\$PATH:/usr/games" >> ~/.bashrc
